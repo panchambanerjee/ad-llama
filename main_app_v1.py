@@ -44,7 +44,7 @@ def generate_response(product):
 
 
     llama_llm = Replicate(model="meta/llama-2-13b-chat:f4e2de70d66816a838a89eeeb621910adffb0dd0baba3976c96980970978018d", \
-                     temperature=0.9) # Need to minimize randomness, but also keep creativity
+                     temperature=0.75) # Need to minimize randomness, but also keep creativity
 
     llm = llama_llm
 
