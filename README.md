@@ -1,4 +1,4 @@
-file:///Users/panchamb/Documents/Screenshots_Vids/Screenshot%202023-09-18%20at%2011.27.06%20PM.png
+<img width="806" alt="Screenshot 2023-09-18 at 11 27 06 PM" src="https://github.com/panchambanerjee/adllama/assets/17071658/f83f1c57-1d1f-41e8-84b1-cdcfcb0863cb">
 
 # ad-llama
 Create everything you need to start advertising your brilliant product ideas!!
