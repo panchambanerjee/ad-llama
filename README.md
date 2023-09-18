@@ -1,4 +1,4 @@
-# adllama
+# ad-llama
 Create everything you need to start advertising your brilliant product ideas!!
 
 ## Preamble
