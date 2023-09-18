@@ -1,7 +1,7 @@
 <img width="806" alt="Screenshot 2023-09-18 at 11 27 06 PM" src="https://github.com/panchambanerjee/adllama/assets/17071658/f83f1c57-1d1f-41e8-84b1-cdcfcb0863cb">
 
 # ad-llama
-Create everything you need to start advertising your brilliant product ideas!!
+Create everything you need to start advertising your product ideas!!
 
 ## Preamble
 Originally built in a weekend for the Streamlit LLM Hackathon 2023 (https://streamlit.io/community/llm-hackathon-2023), the idea originated from some Langchain documentation about using models from Replicate (https://replicate.com/explore) in a SimpleSequentialChain (https://api.python.langchain.com/en/latest/chains/langchain.chains.sequential.SimpleSequentialChain.html), and a desire to move out of the OpenAI ecosystem and start using Llama 2 (https://ai.meta.com/llama/). 
