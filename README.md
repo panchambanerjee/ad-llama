@@ -22,7 +22,7 @@ Enter an API key for Replicate (create an account, and follow the standard steps
 #### Large Language Models:
 * meta/llama-2-13b-chat: https://replicate.com/meta/llama-2-13b-chat
 
-#### Text To Image Models
+#### Text To Image Models:
   
 * galleri5/icons: https://replicate.com/galleri5/icons
 * mejiabrayan/logoai: https://replicate.com/mejiabrayan/logoai
