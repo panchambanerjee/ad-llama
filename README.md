@@ -28,13 +28,16 @@ Enter an API key for Replicate (create an account, and follow the standard steps
 * mejiabrayan/logoai: https://replicate.com/mejiabrayan/logoai
 * cjwbw/magifactory-t-shirt-diffusion: https://replicate.com/cjwbw/magifactory-t-shirt-diffusion
 
-## To-Do
+## To-Do and Notes
 
 * Parametrize inputs for all the different Replicate models
 * Understand how to use negative prompting better for the text2image models
 * Try non-logo image models, Stable diffusion based
 * Sometimes the logo description (which is fed into the image models) triggers an NSFW filter warning, the way to fix this is to usually just re-run, but is there a better solution?
+* Some of the slogans are repetitive, changing Llama 2 temperature does not seem to affect this too much.
+* Try llama-70b
 * The code needs to be modularized
+* Image resolutions need to be optimized
 * Add in another step in the pipeline:: placing ad logos on products (rucksacks, bottles, coffee mugs etc.)
 * Perhaps also try to generate an ad jingle
   
