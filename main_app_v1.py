@@ -1,7 +1,5 @@
 # Use LLama 2  to generate ideas for name, tagline and logo for a company
 
-# Logo give choices to user??
-
 from PIL import Image
 import requests
 from io import BytesIO
