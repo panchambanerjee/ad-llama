@@ -31,6 +31,7 @@ Enter an API key for Replicate (create an account, and follow the standard steps
 ## To-Do and Notes
 
 * Parametrize inputs for all the different Replicate models
+* Llama 2 temperature, top_k, etc need to be experimented with to standardize text output format
 * Understand how to use negative prompting better for the text2image models
 * Try non-logo image models, Stable diffusion based
 * Sometimes the logo description (which is fed into the image models) triggers an NSFW filter warning, the way to fix this is to usually just re-run, but is there a better solution?
