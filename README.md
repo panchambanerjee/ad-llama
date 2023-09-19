@@ -43,7 +43,7 @@ Enter an API key for Replicate (create an account, and follow the standard steps
 * Understand how to use negative prompting better for the text2image models
 * Try non-logo image models, Stable diffusion based
 * Sometimes the logo description (which is fed into the image models) triggers an NSFW filter warning, the way to fix this is to usually just re-run, but is there a better solution?
-* Some of the slogans are repetitive, changing Llama 2 temperature does not seem to affect this too much.
+* Some of the slogans are repetitive and a bit.. cheesy?, changing Llama 2 temperature does not seem to affect this too much.
 * Sometimes the logo models don't understand that they need to generate a product logo, but generate images instead. Needs to be addressed. 
 * Try llama-70b
 * The code needs to be modularized
