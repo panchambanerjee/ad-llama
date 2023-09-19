@@ -9,7 +9,7 @@ Create everything you need to start advertising your product ideas!!
 * Sugar-free Soda
 * Coffee
 * Electric Car
-* Neon Sneakers
+* Toothpaste
 
 ## Preamble
 Originally built in a weekend for the Streamlit LLM Hackathon 2023 (https://streamlit.io/community/llm-hackathon-2023), the idea originated from some Langchain documentation about using models from Replicate (https://replicate.com/explore) in a SimpleSequentialChain (https://api.python.langchain.com/en/latest/chains/langchain.chains.sequential.SimpleSequentialChain.html), and a desire to move out of the OpenAI ecosystem and start using Llama 2 (https://ai.meta.com/llama/). 
